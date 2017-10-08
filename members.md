@@ -11,7 +11,7 @@ Also, take a look at [GitHub's Guide to Forking Repositories](https://guides.git
 
 # Len Payne
 
-Len is the founding member of the Sarnia-Lambton Linux Users Group. Len first
+Len is a founding member of the Sarnia-Lambton Linux Users Group. Len first
 started using Linux in 1998, with [Slackware](http://www.slackware.com/) v3.4.
 Since that time, Len has installed and used Linux on various devices, with
 various levels of success. Len is familiar (in chronological order) with:
