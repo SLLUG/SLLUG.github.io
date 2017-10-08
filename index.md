@@ -59,7 +59,7 @@ Tech Community member](https://www.cognitoforms.com/SarniaTechCommunity/SarniaTe
 ## <a name="contact" />Contact
 
 The SLLUG can be reached by contacting [Len Payne](https://github.com/LenPayne)
-through [Twitter](https://twitter.com/LenAtLambton), or [E-Mail](mailto:len.payne@gmail.com).
+through [Twitter](https://twitter.com/LenAtLambton), or [E-Mail](mailto:len.payne@sllug.ca).
 
 Check out our [Members Page](/members) to reach out to learn about other members
 and find ways to reach them.

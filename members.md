@@ -34,6 +34,6 @@ servers running a combination of Ubuntu, CentOS, and Amazon Linux, and has a
 handful of Raspberry Pi devices around the city running Raspbian, OSMC or OpenELEC.
 
 If you'd like to contact [Len Payne](https://github.com/LenPayne) you can do so
-through [Twitter](https://twitter.com/LenAtLambton), or [E-Mail](mailto:len.payne@gmail.com).
+through [Twitter](https://twitter.com/LenAtLambton), or [E-Mail](mailto:len.payne@sllug.ca).
 
 ## [&#8592; Return to Front Page](/)
