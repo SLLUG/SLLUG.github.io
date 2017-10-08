@@ -7,10 +7,22 @@ title: Home
 * [Meetings](#meetings)
 * [Advocacy](#advocacy)
 * [Friends and Family](#friends)
+* [Members](/members)
+* [Contact](#contact)
 
 This group is dedicated to the proliferation and advocacy of open source
 software in the Sarnia-Lambton area. We meet monthly to discuss and learn
-about Linux and other Free and Libre Open Source Software (FLOSS).
+about Linux and other Free/Libre Open Source Software (FLOSS).
+
+The GNU/Linux system is an alternative operating system for multiple hardware
+platforms that has been licensed under a series of permissive open source
+software licenses. These licenses allow users to collaborate together openly to
+build a better system.
+
+To learn more, check out:
+
+* [Linux.com's "What is Linux?"](https://www.linux.com/what-is-linux)
+* [Richard Stallman's "Linux and the GNU System"](https://www.gnu.org/gnu/linux-and-gnu.en.html)
 
 ## <a name="meetings" />Meetings
 
@@ -48,3 +60,6 @@ Tech Community member](https://www.cognitoforms.com/SarniaTechCommunity/SarniaTe
 
 The SLLUG can be reached by contacting [Len Payne](https://github.com/LenPayne)
 through [Twitter](https://twitter.com/LenAtLambton), or [E-Mail](mailto:len.payne@gmail.com).
+
+Check out our [Members Page](/members) to reach out to learn about other members
+and find ways to reach them.
