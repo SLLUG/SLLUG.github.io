@@ -26,7 +26,19 @@ To learn more, check out:
 
 ## <a name="meetings" />Meetings
 
-Meeting day/time is not yet determined. We aim to meet once each month to
+Our inaugural meet-and-greet/organizational meeting is Monday, Oct 16th, at
+6:00pm at:
+
+    Stoke's Inland Bar and Grill
+    1202 Lambton Mall Rd, Sarnia, ON N7S 5R6
+
+The agenda of this first meeting is:
+
+- Introductions, including "Why I care about Linux/FLOSS"
+- Planning the first InstallFest esp. When? Where? Advertising? Who's Doing What?
+- Discussing meeting formats going forwards
+
+Ongoing meeting day/time is not yet determined. We aim to meet once each month to
 address news, interesting techniques, and to discuss ongoing projects.
 
 Meetings are free to attend for all time, for all participants. Interested
