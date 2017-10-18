@@ -26,24 +26,48 @@ To learn more, check out:
 
 ## <a name="meetings" />Meetings
 
-Our inaugural meet-and-greet/organizational meeting is Monday, Oct 16th, at
+Ongoing meetings will be held on the Third Monday of the month (eg- Nov 20th, 2017).
+
+Starting in 2018, we plan to hold monthly topical events, with a mix of discussion
+on a specific FLOSS topic, and a mix of non-specific networking and camaraderie.
+
+Meetings are free to attend for all time, for all participants. Interested
+participants of all skill levels are encouraged to attend. We ask that
+attendees under the age of 13 bring along an interested adult.
+
+### Upcoming Meetings
+
+#### Nov 20th, 2017 - Schedule Planning and LUG Rules/Regulations
+
+Rough Agenda:
+
+- Network Updates and Introductions
+- 2018 Monthly Topic Choices and Ordering (eg- Storage in March, Linux in April)
+- LUG Rules and Regulations - What are other groups using? What should we do?
+
+#### Dec 18th, 2017 - Holiday Celebration
+
+Rough Agenda:
+
+- Eat
+- Drink
+- Be Merry
+
+### Past Meetings
+
+#### Oct 16th, 2017 - Inaugural Meet-and-Greet
+
+Our inaugural meet-and-greet/organizational meeting was Monday, Oct 16th, at
 6:00pm at:
 
     Stoke's Inland Bar and Grill
     1202 Lambton Mall Rd, Sarnia, ON N7S 5R6
 
-The agenda of this first meeting is:
+The agenda of this first meeting was:
 
 - Introductions, including "Why I care about Linux/FLOSS"
 - Planning the first InstallFest esp. When? Where? Advertising? Who's Doing What?
 - Discussing meeting formats going forwards
-
-Ongoing meeting day/time is not yet determined. We aim to meet once each month to
-address news, interesting techniques, and to discuss ongoing projects.
-
-Meetings are free to attend for all time, for all participants. Interested
-participants of all skill levels are encouraged to attend. We ask that
-attendees under the age of 13 bring along an interested adult.
 
 ## <a name="advocacy" />Advocacy
 
@@ -63,15 +87,17 @@ including but not limited to:
 
 ## <a name="friends" />Friends and Family
 
-SLLUG is a partial offshoot of the [Sarnia Tech Community](https://sarniatech.ca).
+SLLUG is a friend and follower of the [Sarnia Tech Community](https://sarniatech.ca).
 Go check out the Sarnia Tech Community [on Facebook](https://www.facebook.com/groups/SarniaTech/)
-or join us [on Slack](https://sarnia.slack.com/) by signing up [to be a Sarnia
+or join them [on Slack](https://sarnia.slack.com/) by signing up [to be a Sarnia
 Tech Community member](https://www.cognitoforms.com/SarniaTechCommunity/SarniaTechCommunityBecomeAMember).
 
 ## <a name="contact" />Contact
 
 The SLLUG can be reached by contacting [Len Payne](https://github.com/LenPayne)
 through [Twitter](https://twitter.com/LenAtLambton), or [E-Mail](mailto:len.payne@sllug.ca).
+
+We are also currently occupying #sllug on Freenode if you'd like to chat.
 
 Check out our [Members Page](/members) to reach out to learn about other members
 and find ways to reach them.
