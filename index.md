@@ -59,11 +59,11 @@ do it?"
 
 Three major references will be:
 
-- ftp://linuxmafia.com/kb/Linux_PR/newlug.html
-- http://www.tldp.org/HOWTO/User-Group-HOWTO.html
-- http://lugslist.com/howto.php
+- [Rick Moen's "Recipe for a Successful Linux User Group](ftp://linuxmafia.com/kb/Linux_PR/newlug.html)
+- [K. Clark and R. Moen's "Linux User Group HOWTO"](http://www.tldp.org/HOWTO/User-Group-HOWTO.html)
+- ["Create your LUG" by lugslist.com](http://lugslist.com/howto.php)
 
-We are currently following the wise advice at lugslist.com:
+We are currently following the wise advice at [lugslist.com](http://lugslist.com/):
 
 "just go out with geek friends for some beer/coffee/whatever somewhere and
 launch a website to tell other people to join. If it is still active after some
