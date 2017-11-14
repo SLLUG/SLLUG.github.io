@@ -39,11 +39,37 @@ attendees under the age of 13 bring along an interested adult.
 
 #### Nov 20th, 2017 - Schedule Planning and LUG Rules/Regulations
 
-Rough Agenda:
+Our second meet-and-greet/organizational meeting will be Monday, Nov 20th, at
+6:00pm at:
+
+    Stoke's Inland Bar and Grill
+    1202 Lambton Mall Rd, Sarnia, ON N7S 5R6
+
+Agenda:
 
 - Network Updates and Introductions
 - 2018 Monthly Topic Choices and Ordering (eg- Storage in March, Linux in April)
 - LUG Rules and Regulations - What are other groups using? What should we do?
+- Future Location Taskforce
+
+The major goal of this meeting is to build long-term plans about how meetings
+will take place in the future. Specifically, 3/4ths of the agenda consists of
+"What are we going to talk about?", "Who gets to decide?", and "Where will we
+do it?"
+
+Three major references will be:
+
+- ftp://linuxmafia.com/kb/Linux_PR/newlug.html
+- http://www.tldp.org/HOWTO/User-Group-HOWTO.html
+- http://lugslist.com/howto.php
+
+We are currently following the wise advice at lugslist.com:
+
+"just go out with geek friends for some beer/coffee/whatever somewhere and
+launch a website to tell other people to join. If it is still active after some
+months, write us so that we could include your organization in the list."
+
+Feel free to join us!
 
 #### Dec 18th, 2017 - Holiday Celebration
 
