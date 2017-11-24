@@ -5,6 +5,7 @@ title: Home
 # Welcome to the Sarnia-Lambton Linux Users Group - SLLUG
 
 * [Meetings](#meetings)
+* [Communication](#communication)
 * [Advocacy](#advocacy)
 * [Friends and Family](#friends)
 * [Members](/members)
@@ -37,9 +38,27 @@ attendees under the age of 13 bring along an interested adult.
 
 ### Upcoming Meetings
 
+#### Dec 18th, 2017 - Holiday Celebration
+
+We will be having an informal holiday celebration on Monday, Dec 18th, at
+6:00pm at:
+
+    Stoke's Inland Bar and Grill
+    1202 Lambton Mall Rd, Sarnia, ON N7S 5R6
+	
+Agenda:
+
+- Eat
+- Drink
+- Be Merry
+
+An update will be provided regarding the 2018 activity plan.
+
+### Past Meetings
+
 #### Nov 20th, 2017 - Schedule Planning and LUG Rules/Regulations
 
-Our second meet-and-greet/organizational meeting will be Monday, Nov 20th, at
+Our second meet-and-greet/organizational meeting was Monday, Nov 20th, at
 6:00pm at:
 
     Stoke's Inland Bar and Grill
@@ -52,7 +71,7 @@ Agenda:
 - LUG Rules and Regulations - What are other groups using? What should we do?
 - Future Location Taskforce
 
-The major goal of this meeting is to build long-term plans about how meetings
+The major goal of this meeting was to build long-term plans about how meetings
 will take place in the future. Specifically, 3/4ths of the agenda consists of
 "What are we going to talk about?", "Who gets to decide?", and "Where will we
 do it?"
@@ -71,16 +90,6 @@ months, write us so that we could include your organization in the list."
 
 Feel free to join us!
 
-#### Dec 18th, 2017 - Holiday Celebration
-
-Rough Agenda:
-
-- Eat
-- Drink
-- Be Merry
-
-### Past Meetings
-
 #### Oct 16th, 2017 - Inaugural Meet-and-Greet
 
 Our inaugural meet-and-greet/organizational meeting was Monday, Oct 16th, at
@@ -94,6 +103,14 @@ The agenda of this first meeting was:
 - Introductions, including "Why I care about Linux/FLOSS"
 - Planning the first InstallFest esp. When? Where? Advertising? Who's Doing What?
 - Discussing meeting formats going forwards
+
+## <a name="communication" />Communication
+
+The Sarnia-Lambton Linux Users Group is running Mailman 3.0 on 
+[mail.sllug.ca](https://mail.sllug.ca) for your communicating pleasure.
+
+[Subscribe to the mailing list](https://mail.sllug.ca/postorius/lists/general.sllug.ca) 
+for up-to-date meeting information and other discussions.
 
 ## <a name="advocacy" />Advocacy
 
