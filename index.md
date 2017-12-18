@@ -8,7 +8,7 @@ title: Home
 * [Communication](#communication)
 * [Advocacy](#advocacy)
 * [Friends and Family](#friends)
-* [Members](/members)
+* [Members](/members.html)
 * [Contact](#contact)
 
 This group is dedicated to the proliferation and advocacy of open source
@@ -52,7 +52,7 @@ Agenda:
 - Drink
 - Be Merry
 
-An update will be provided regarding the [2018 activity plan](/plan-2018).
+An update will be provided regarding the [2018 activity plan](/plan-2018.html).
 
 ### Past Meetings
 
@@ -112,7 +112,7 @@ The Sarnia-Lambton Linux Users Group is running Mailman 3.0 on
 [Subscribe to the mailing list](https://mail.sllug.ca/postorius/lists/general.sllug.ca) 
 for up-to-date meeting information and other discussions.
 
-Examine the [2018 Activity Plan](/plan-2018) as it stands.
+Examine the [2018 Activity Plan](/plan-2018.html) as it stands.
 
 ## <a name="advocacy" />Advocacy
 
@@ -144,5 +144,5 @@ through [Twitter](https://twitter.com/LenAtLambton), or [E-Mail](mailto:len.payn
 
 We are also currently occupying #sllug on Freenode if you'd like to chat.
 
-Check out our [Members Page](/members) to reach out to learn about other members
+Check out our [Members Page](/members.html) to reach out to learn about other members
 and find ways to reach them.
