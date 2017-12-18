@@ -52,7 +52,7 @@ Agenda:
 - Drink
 - Be Merry
 
-An update will be provided regarding the 2018 activity plan.
+An update will be provided regarding the [2018 activity plan](/plan-2018).
 
 ### Past Meetings
 
@@ -111,6 +111,8 @@ The Sarnia-Lambton Linux Users Group is running Mailman 3.0 on
 
 [Subscribe to the mailing list](https://mail.sllug.ca/postorius/lists/general.sllug.ca) 
 for up-to-date meeting information and other discussions.
+
+Examine the [2018 Activity Plan](/plan-2018) as it stands.
 
 ## <a name="advocacy" />Advocacy
 
