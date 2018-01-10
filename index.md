@@ -38,23 +38,61 @@ attendees under the age of 13 bring along an interested adult.
 
 ### Upcoming Meetings
 
+#### Jan 15th, 2018 - FLOSS Round Table
+
+We will be having a round-table discussion on high-level Free/Libre Open Source
+Software (FLOSS) topics. The format of this discussion will be very open.
+
+This meeting will happen Monday, Jan 15th, at 6:00pm at:
+
+    Meeting Room L211
+    Lambton College
+    1457 London Rd, Sarnia, ON N7S 6K4
+
+For detailed directions:
+
+[![College Map to L211](/CollegeMapToL211-Thumb.png)](CollegeMapToL211.png)
+
+After a brief introudction to the topic, the conversation will be guided by
+these major guiding questions:
+
+- How is FLOSS used as an end-user?
+- How is FLOSS used as a developer?
+- How is FLOSS used as a business consumer?
+
+Unmoderated conversations will follow, based on the desires of the group.
+
+#### Feb 19th, 2018 - Year of the GNU/Linux Desktop
+
+We will have a guided presentation on February 19th, at 6:00pm to discuss the
+available options for using FLOSS in a desktop environment. This will include
+short presentations on:
+
+- Alternative Applications (ie- if not MS Office, then what?)
+- Desktop Environments and Associated Tools
+- Package Management and Update Systems
+- Base Distributions and Forks
+- How to Decide on YOUR GNU/Linux Pathway
+
+Location is TBD
+
+### Past Meetings
+
 #### Dec 18th, 2017 - Holiday Celebration
 
-We will be having an informal holiday celebration on Monday, Dec 18th, at
+We had an informal holiday celebration on Monday, Dec 18th, at
 6:00pm at:
 
     Stoke's Inland Bar and Grill
     1202 Lambton Mall Rd, Sarnia, ON N7S 5R6
-	
+
 Agenda:
 
 - Eat
 - Drink
 - Be Merry
 
-An update will be provided regarding the [2018 activity plan](/plan-2018.html).
-
-### Past Meetings
+An update was provided regarding the [2018 activity plan](/plan-2018.html).
 
 #### Nov 20th, 2017 - Schedule Planning and LUG Rules/Regulations
 
@@ -106,10 +144,10 @@ The agenda of this first meeting was:
 
 ## <a name="communication" />Communication
 
-The Sarnia-Lambton Linux Users Group is running Mailman 3.0 on 
+The Sarnia-Lambton Linux Users Group is running Mailman 3.0 on
 [mail.sllug.ca](https://mail.sllug.ca) for your communicating pleasure.
 
-[Subscribe to the mailing list](https://mail.sllug.ca/postorius/lists/general.sllug.ca) 
+[Subscribe to the mailing list](https://mail.sllug.ca/postorius/lists/general.sllug.ca)
 for up-to-date meeting information and other discussions.
 
 Examine the [2018 Activity Plan](/plan-2018.html) as it stands.
