@@ -38,33 +38,12 @@ attendees under the age of 13 bring along an interested adult.
 
 ### Upcoming Meetings
 
-#### Jan 15th, 2018 - FLOSS Round Table
+#### Feb 12th, 2018 - Year of the GNU/Linux Desktop
 
-We will be having a round-table discussion on high-level Free/Libre Open Source
-Software (FLOSS) topics. The format of this discussion will be very open.
+*NOTE: Date Change* - This event will NOT be on the third-Monday due to a conflict
+with Ontario's Family Day.
 
-This meeting will happen Monday, Jan 15th, at 6:00pm at:
-
-    Meeting Room L211
-    Lambton College
-    1457 London Rd, Sarnia, ON N7S 6K4
-
-For detailed directions:
-
-[![College Map to L211](/CollegeMapToL211-Thumb.png)](CollegeMapToL211.png)
-
-After a brief introudction to the topic, the conversation will be guided by
-these major guiding questions:
-
-- How is FLOSS used as an end-user?
-- How is FLOSS used as a developer?
-- How is FLOSS used as a business consumer?
-
-Unmoderated conversations will follow, based on the desires of the group.
-
-#### Feb 19th, 2018 - Year of the GNU/Linux Desktop
-
-We will have a guided presentation on February 19th, at 6:00pm to discuss the
+We will have a guided presentation on February 12th, at 6:00pm to discuss the
 available options for using FLOSS in a desktop environment. This will include
 short presentations on:
 
@@ -76,7 +55,46 @@ short presentations on:
 
 Location is TBD
 
+#### Feb 24th, 2018 - InstallFest #1
+
+The goal of this event is to offer a chance for users to install Linux.
+
+This event will be audience-driven, but possible activities will include:
+
+- Installing Linux to a RaspberryPi and connecting sensors to the GPIO ports
+- Installing a Linux Desktop Environment to a desktop computer for personal use
+- Advanced Linux Installation (Gentoo/Arch/Debian Minimal) in a VM or to hardware
+
+Experienced users will be available to guide small groups through individual
+activities and to answer questions.
+
+Location is TBD
+
 ### Past Meetings
+
+#### Jan 15th, 2018 - FLOSS Round Table
+
+We had a round-table discussion on high-level Free/Libre Open Source
+Software (FLOSS) topics. The format of this discussion was very open.
+
+This meeting happened Monday, Jan 15th, at 6:00pm at:
+
+    Meeting Room L211
+    Lambton College
+    1457 London Rd, Sarnia, ON N7S 6K4
+
+For detailed directions:
+
+[![College Map to L211](/CollegeMapToL211-Thumb.png)](CollegeMapToL211.png)
+
+After a brief introudction to the topic, the conversation was be guided by
+these major guiding questions:
+
+- How is FLOSS used as an end-user?
+- How is FLOSS used as a developer?
+- How is FLOSS used as a business consumer?
+
+Unmoderated conversations followed, based on the desires of the group.
 
 #### Dec 18th, 2017 - Holiday Celebration
 
