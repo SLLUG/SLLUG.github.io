@@ -44,8 +44,20 @@ attendees under the age of 13 bring along an interested adult.
 with Ontario's Family Day.
 
 We will have a guided presentation on February 12th, at 6:00pm to discuss the
-available options for using FLOSS in a desktop environment. This will include
-short presentations on:
+available options for using FLOSS in a desktop environment.
+
+The event will be held at theStory's Second Entrance:
+
+    theStory's Second Entrance
+    181 Christina Street N, Sarnia, ON N7T 5T8
+
+![Enter north door of theStory](/theStory-SecondEntrance.jpg)
+
+Please do NOT enter through the main entrance at theStory. Another group has a
+fantastic event running from 4-7pm that we do not want to disturb. Use the next
+door to the north: 181 Christina N (not 179).
+
+This month's event will include short discussions on:
 
 - Alternative Applications (ie- if not MS Office, then what?)
 - Desktop Environments and Associated Tools
@@ -53,9 +65,18 @@ short presentations on:
 - Base Distributions and Forks
 - How to Decide on YOUR GNU/Linux Pathway
 
-Location is TBD
+#### Mar 19th, 2018 - Enterprise Server Needs
 
-#### Feb 24th, 2018 - InstallFest #1
+On the third Monday of March, we will resume our regularly scheduled programming
+with a discussion about enterprise server needs.
+
+This will include topics like:
+
+- BSD vs Linux (Flavors and Benefits)
+- Hypervisor Options for Virtual Hosts
+- Open Source Storage Systems
+
+#### Mar 24th, 2018 - InstallFest #1
 
 The goal of this event is to offer a chance for users to install Linux.
 
