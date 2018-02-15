@@ -25,6 +25,14 @@ To learn more, check out:
 * [Linux.com's "What is Linux?"](https://www.linux.com/what-is-linux)
 * [Richard Stallman's "Linux and the GNU System"](https://www.gnu.org/gnu/linux-and-gnu.en.html)
 
+### Donations
+
+Several members have asked, "How can I help out?"
+
+We accept donations of time, money, and equipment. If you would like to share funds
+please add funds to our [PayPal Pool](https://www.paypal.com/pools/c/81FegeEP1w) or
+arrange other donation methods with [Mark Dillon (mark.dillon@sllug.ca)](mailto:mark.dillon@sllug.ca).
+
 ## <a name="meetings" />Meetings
 
 Ongoing meetings will be held on the Third Monday of the month (eg- Nov 20th, 2017).
