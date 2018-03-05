@@ -46,43 +46,31 @@ attendees under the age of 13 bring along an interested adult.
 
 ### Upcoming Meetings
 
-#### Feb 12th, 2018 - Year of the GNU/Linux Desktop
+#### Mar 19th, 2018 - Enterprise Server Needs
 
-*NOTE: Date Change* - This event will NOT be on the third-Monday due to a conflict
-with Ontario's Family Day.
+On the third Monday of March, we will resume our regularly scheduled programming
+with a discussion about enterprise server needs.
 
-We will have a guided presentation on February 12th, at 6:00pm to discuss the
-available options for using FLOSS in a desktop environment.
-
-The event will be held at theStory's Second Entrance:
+The event will be held at 6:00pm on March 19th at theStory's Second Entrance:
 
     theStory's Second Entrance
     181 Christina Street N, Sarnia, ON N7T 5T8
 
 ![Enter north door of theStory](/theStory-SecondEntrance.jpg)
 
-Please do NOT enter through the main entrance at theStory. Another group has a
-fantastic event running from 4-7pm that we do not want to disturb. Use the next
-door to the north: 181 Christina N (not 179).
-
-This month's event will include short discussions on:
-
-- Alternative Applications (ie- if not MS Office, then what?)
-- Desktop Environments and Associated Tools
-- Package Management and Update Systems
-- Base Distributions and Forks
-- How to Decide on YOUR GNU/Linux Pathway
-
-#### Mar 19th, 2018 - Enterprise Server Needs
-
-On the third Monday of March, we will resume our regularly scheduled programming
-with a discussion about enterprise server needs.
-
 This will include topics like:
 
 - BSD vs Linux (Flavors and Benefits)
 - Hypervisor Options for Virtual Hosts
 - Open Source Storage Systems
+
+To prepare for the meeting, attendees are encouraged to find a piece of tech that 
+would be used on a server: a piece of tech you want to learn more about. And learn 
+more about it. This meeting will be something of a show-and-tell for those
+interested in sharing.
+
+If we manage to dry up on prepared material, I'm sure we'll be able to have some
+of our more experienced users share from their own experiences in server-land. 
 
 #### Mar 24th, 2018 - InstallFest #1
 
@@ -97,9 +85,50 @@ This event will be audience-driven, but possible activities will include:
 Experienced users will be available to guide small groups through individual
 activities and to answer questions.
 
-Location is TBD
+The event will be from 10-4 on Saturday, March 24th, in room A223 at Lambton College.
+
+You can expect fun, food, and freedom. All for the low-low price of free (as in 
+pizza) so that you can learn more about free software (as in liberty.)
+
+Activities will be available for Installers of all skill levels, from:
+- Beginner ("I've never heard of this, please tell me more"), to
+- Intermediate ("I've been meaning to install Gentoo one of these days"), to
+- Advanced ("Let's build a small business server including e-mail, web server, and logins")
+
+You can bring your own device and install Linux on that, or use one of our loaners kindly donated by the Information Technology Professional program.
+
+Location is Room A223 at Lambton College.
+
+[Share our Poster Freely](/installfest-2018-03-24.pdf)
 
 ### Past Meetings
+
+#### Feb 12th, 2018 - Year of the GNU/Linux Desktop
+
+*NOTE: Date Change* - This event was NOT on the third-Monday due to a conflict
+with Ontario's Family Day.
+
+We had guided presentations on February 12th, at 6:00pm to discuss the
+available options for using FLOSS in a desktop environment.
+
+The event was held at theStory's Second Entrance:
+
+    theStory's Second Entrance
+    181 Christina Street N, Sarnia, ON N7T 5T8
+
+![Enter north door of theStory](/theStory-SecondEntrance.jpg)
+
+Please do NOT enter through the main entrance at theStory. Another group has a
+fantastic event running from 4-7pm that we do not want to disturb. Use the next
+door to the north: 181 Christina N (not 179).
+
+This month's event included short discussions on:
+
+- Alternative Applications (ie- if not MS Office, then what?)
+- Desktop Environments and Associated Tools
+- Package Management and Update Systems
+- Base Distributions and Forks
+- How to Decide on YOUR GNU/Linux Pathway
 
 #### Jan 15th, 2018 - FLOSS Round Table
 
