@@ -46,32 +46,6 @@ attendees under the age of 13 bring along an interested adult.
 
 ### Upcoming Meetings
 
-#### Mar 19th, 2018 - Enterprise Server Needs
-
-On the third Monday of March, we will resume our regularly scheduled programming
-with a discussion about enterprise server needs.
-
-The event will be held at 6:00pm on March 19th at theStory's Second Entrance:
-
-    theStory's Second Entrance
-    181 Christina Street N, Sarnia, ON N7T 5T8
-
-![Enter north door of theStory](/theStory-SecondEntrance.jpg)
-
-This will include topics like:
-
-- BSD vs Linux (Flavors and Benefits)
-- Hypervisor Options for Virtual Hosts
-- Open Source Storage Systems
-
-To prepare for the meeting, attendees are encouraged to find a piece of tech that 
-would be used on a server: a piece of tech you want to learn more about. And learn 
-more about it. This meeting will be something of a show-and-tell for those
-interested in sharing.
-
-If we manage to dry up on prepared material, I'm sure we'll be able to have some
-of our more experienced users share from their own experiences in server-land. 
-
 #### Mar 24th, 2018 - InstallFest #1
 
 The goal of this event is to offer a chance for users to install Linux.
@@ -95,13 +69,84 @@ Activities will be available for Installers of all skill levels, from:
 - Intermediate ("I've been meaning to install Gentoo one of these days"), to
 - Advanced ("Let's build a small business server including e-mail, web server, and logins")
 
-You can bring your own device and install Linux on that, or use one of our loaners kindly donated by the Information Technology Professional program.
+You can bring your own device and install Linux on that, or use one of our 
+loaners kindly donated by the Information Technology Professional program.
+
+##### Agenda
+
+    10:00 - 10:15 Networking and Coffee Kickstart
+    10:15 - 10:30 Introduction to Open Source and SLLUG
+    10:30 - 12:00 Group Activities Commence
+    12:00 - 12:30 Lunch (free as in pizza)
+    12:30 -  2:30 Group Activities Continue
+     2:30 -  3:00 Wrap-Up and Next Steps
 
 Location is Room A223 at Lambton College.
 
+[![College Map to A223](/CollegeMapToA223-Thumb.png)](CollegeMapToA223.png)
+
+- Park in Lot D at the College (free parking on Saturday)
+- Cross the bridge and enter the main doors
+- Immediately take a left before the second set of doors
+- Go up the stairs
+- At the top of the stairs, take a left
+- Room A223 will be a few doors down, on the left
+
 [Share our Poster Freely](/installfest-2018-03-24.pdf)
 
+#### Apr 16th, 2018 - Open Source Network Security
+
+On the third Monday of April, we will discuss open source networking and security.
+
+The event will be held at 6:00pm on April 16th at theStory's Second Entrance:
+    
+    theStory's Second Entrance
+    181 Christina Street N, Sarnia, ON N7T 5T8
+
+![Enter north door of theStory](/theStory-SecondEntrance.jpg)
+
+As with March's exercise, members are encouraged to prepare a small bit of
+information about their experiences (both new and old) with open source
+network security technologies.
+
+Topics will include but not be limited to:
+
+- Firewall Technologies (pf vs iptables vs ???)
+- Network Intrusion and Detection Systems
+- Network Penetration Testing Systems
+
+Our events typically involve a couple of hours of technical conversation, with 
+small group networking continuing after the formal schedule concludes. Come join in!
+
+If you'd like to reach us to learn more about Linux or Open Source tech,
+remember that you can [join our mailing lists](https://mail.sllug.ca), join
+us on freenode IRC @ #sllug, or reach out to the [Sarnia Tech Community](https://www.sarniatech.ca) 
+where we have a #sllug channel on the Slack chatroom.
+
 ### Past Meetings
+
+#### Mar 19th, 2018 - Enterprise Server Needs
+
+On the third Monday of March, we resumed our regularly scheduled programming
+with a discussion about enterprise server needs.
+
+The event was held at 6:00pm on March 19th at theStory's Second Entrance:
+
+    theStory's Second Entrance
+    181 Christina Street N, Sarnia, ON N7T 5T8
+
+![Enter north door of theStory](/theStory-SecondEntrance.jpg)
+
+This included topics like:
+
+- BSD vs Linux (Flavors and Benefits)
+- Hypervisor Options for Virtual Hosts
+- Open Source Storage Systems
+
+To prepare for the meeting, attendees were encouraged to find a piece of tech that 
+would be used on a server: a piece of tech you want to learn more about. And learn 
+more about it. This meeting will be something of a show-and-tell for those
+interested in sharing.
 
 #### Feb 12th, 2018 - Year of the GNU/Linux Desktop
 
