@@ -46,7 +46,7 @@ attendees under the age of 13 bring along an interested adult.
 
 ### Upcoming Meetings
 
-#### Mar 24th, 2018 - InstallFest #1
+#### <a name="2018-03-24" />Mar 24th, 2018 - InstallFest #1
 
 The goal of this event is to offer a chance for users to install Linux.
 
@@ -94,7 +94,7 @@ Location is Room A223 at Lambton College.
 
 [Share our Poster Freely](/installfest-2018-03-24.pdf)
 
-#### Apr 16th, 2018 - Open Source Network Security
+#### <a name="2018-04-16" />Apr 16th, 2018 - Open Source Network Security
 
 On the third Monday of April, we will discuss open source networking and security.
 
@@ -125,7 +125,7 @@ where we have a #sllug channel on the Slack chatroom.
 
 ### Past Meetings
 
-#### Mar 19th, 2018 - Enterprise Server Needs
+#### <a name="2018-03-19" />Mar 19th, 2018 - Enterprise Server Needs
 
 On the third Monday of March, we resumed our regularly scheduled programming
 with a discussion about enterprise server needs.
@@ -148,7 +148,7 @@ would be used on a server: a piece of tech you want to learn more about. And lea
 more about it. This meeting will be something of a show-and-tell for those
 interested in sharing.
 
-#### Feb 12th, 2018 - Year of the GNU/Linux Desktop
+#### <a name="2018-02-12" />Feb 12th, 2018 - Year of the GNU/Linux Desktop
 
 *NOTE: Date Change* - This event was NOT on the third-Monday due to a conflict
 with Ontario's Family Day.
@@ -175,7 +175,7 @@ This month's event included short discussions on:
 - Base Distributions and Forks
 - How to Decide on YOUR GNU/Linux Pathway
 
-#### Jan 15th, 2018 - FLOSS Round Table
+#### <a name="2018-01-15" />Jan 15th, 2018 - FLOSS Round Table
 
 We had a round-table discussion on high-level Free/Libre Open Source
 Software (FLOSS) topics. The format of this discussion was very open.
@@ -199,7 +199,7 @@ these major guiding questions:
 
 Unmoderated conversations followed, based on the desires of the group.
 
-#### Dec 18th, 2017 - Holiday Celebration
+#### <a name="2017-12-18" />Dec 18th, 2017 - Holiday Celebration
 
 We had an informal holiday celebration on Monday, Dec 18th, at
 6:00pm at:
@@ -215,7 +215,7 @@ Agenda:
 
 An update was provided regarding the [2018 activity plan](/plan-2018.html).
 
-#### Nov 20th, 2017 - Schedule Planning and LUG Rules/Regulations
+#### <a name="2017-11-20" />Nov 20th, 2017 - Schedule Planning and LUG Rules/Regulations
 
 Our second meet-and-greet/organizational meeting was Monday, Nov 20th, at
 6:00pm at:
@@ -249,7 +249,7 @@ months, write us so that we could include your organization in the list."
 
 Feel free to join us!
 
-#### Oct 16th, 2017 - Inaugural Meet-and-Greet
+#### <a name="2017-10-16" />Oct 16th, 2017 - Inaugural Meet-and-Greet
 
 Our inaugural meet-and-greet/organizational meeting was Monday, Oct 16th, at
 6:00pm at:
