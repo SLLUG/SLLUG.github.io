@@ -48,6 +48,8 @@ attendees under the age of 13 bring along an interested adult.
 
 #### <a name="2018-03-24" />Mar 24th, 2018 - InstallFest #1
 
+[See the InstallFest #1 Page for More Details](/installfest-2018-03-24.html)
+
 The goal of this event is to offer a chance for users to install Linux.
 
 This event will be audience-driven, but possible activities will include:
@@ -61,7 +63,7 @@ activities and to answer questions.
 
 The event will be from 10-4 on Saturday, March 24th, in room A223 at Lambton College.
 
-You can expect fun, food, and freedom. All for the low-low price of free (as in 
+You can expect fun, food, and freedom. All for the low-low price of free (as in
 pizza) so that you can learn more about free software (as in liberty.)
 
 Activities will be available for Installers of all skill levels, from:
@@ -69,7 +71,7 @@ Activities will be available for Installers of all skill levels, from:
 - Intermediate ("I've been meaning to install Gentoo one of these days"), to
 - Advanced ("Let's build a small business server including e-mail, web server, and logins")
 
-You can bring your own device and install Linux on that, or use one of our 
+You can bring your own device and install Linux on that, or use one of our
 loaners kindly donated by the Information Technology Professional program.
 
 ##### Agenda
@@ -99,7 +101,7 @@ Location is Room A223 at Lambton College.
 On the third Monday of April, we will discuss open source networking and security.
 
 The event will be held at 6:00pm on April 16th at theStory's Second Entrance:
-    
+
     theStory's Second Entrance
     181 Christina Street N, Sarnia, ON N7T 5T8
 
@@ -115,12 +117,12 @@ Topics will include but not be limited to:
 - Network Intrusion and Detection Systems
 - Network Penetration Testing Systems
 
-Our events typically involve a couple of hours of technical conversation, with 
+Our events typically involve a couple of hours of technical conversation, with
 small group networking continuing after the formal schedule concludes. Come join in!
 
 If you'd like to reach us to learn more about Linux or Open Source tech,
 remember that you can [join our mailing lists](https://mail.sllug.ca), join
-us on freenode IRC @ #sllug, or reach out to the [Sarnia Tech Community](https://www.sarniatech.ca) 
+us on freenode IRC @ #sllug, or reach out to the [Sarnia Tech Community](https://www.sarniatech.ca)
 where we have a #sllug channel on the Slack chatroom.
 
 ### Past Meetings
@@ -143,8 +145,8 @@ This included topics like:
 - Hypervisor Options for Virtual Hosts
 - Open Source Storage Systems
 
-To prepare for the meeting, attendees were encouraged to find a piece of tech that 
-would be used on a server: a piece of tech you want to learn more about. And learn 
+To prepare for the meeting, attendees were encouraged to find a piece of tech that
+would be used on a server: a piece of tech you want to learn more about. And learn
 more about it. This meeting will be something of a show-and-tell for those
 interested in sharing.
 
