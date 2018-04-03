@@ -46,6 +46,37 @@ attendees under the age of 13 bring along an interested adult.
 
 ### Upcoming Meetings
 
+#### <a name="2018-04-16" />Apr 16th, 2018 - Open Source Network Security
+
+On the third Monday of April, we will discuss open source networking and security.
+
+The event will be held at 6:00pm on April 16th at theStory's Second Entrance:
+
+    theStory's Second Entrance
+    181 Christina Street N, Sarnia, ON N7T 5T8
+
+![Enter north door of theStory](/theStory-SecondEntrance.jpg)
+
+As with March's exercise, members are encouraged to prepare a small bit of
+information about their experiences (both new and old) with open source
+networking and security technologies.
+
+Topics will include but not be limited to:
+
+- Firewall Technologies (pf vs iptables vs ???)
+- Network Intrusion and Detection Systems
+- Network Penetration Testing Systems
+
+Our events typically involve a couple of hours of technical conversation, with
+small group networking continuing after the formal schedule concludes. Come join in!
+
+If you'd like to reach us to learn more about Linux or Open Source tech,
+remember that you can [join our mailing lists](https://mail.sllug.ca), join
+us on freenode IRC @ #sllug, or reach out to the [Sarnia Tech Community](https://www.sarniatech.ca)
+where we have a #sllug channel on the Slack chatroom.
+
+### Past Meetings
+
 #### <a name="2018-03-24" />Mar 24th, 2018 - InstallFest #1
 
 [See the InstallFest #1 Page for More Details](/installfest-2018-03-24.html)
@@ -95,37 +126,6 @@ Location is Room A223 at Lambton College.
 - Room A223 will be a few doors down, on the left
 
 [Share our Poster Freely](/installfest-2018-03-24.pdf)
-
-#### <a name="2018-04-16" />Apr 16th, 2018 - Open Source Network Security
-
-On the third Monday of April, we will discuss open source networking and security.
-
-The event will be held at 6:00pm on April 16th at theStory's Second Entrance:
-
-    theStory's Second Entrance
-    181 Christina Street N, Sarnia, ON N7T 5T8
-
-![Enter north door of theStory](/theStory-SecondEntrance.jpg)
-
-As with March's exercise, members are encouraged to prepare a small bit of
-information about their experiences (both new and old) with open source
-network security technologies.
-
-Topics will include but not be limited to:
-
-- Firewall Technologies (pf vs iptables vs ???)
-- Network Intrusion and Detection Systems
-- Network Penetration Testing Systems
-
-Our events typically involve a couple of hours of technical conversation, with
-small group networking continuing after the formal schedule concludes. Come join in!
-
-If you'd like to reach us to learn more about Linux or Open Source tech,
-remember that you can [join our mailing lists](https://mail.sllug.ca), join
-us on freenode IRC @ #sllug, or reach out to the [Sarnia Tech Community](https://www.sarniatech.ca)
-where we have a #sllug channel on the Slack chatroom.
-
-### Past Meetings
 
 #### <a name="2018-03-19" />Mar 19th, 2018 - Enterprise Server Needs
 
