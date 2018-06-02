@@ -46,47 +46,45 @@ attendees under the age of 13 bring along an interested adult.
 
 ### Upcoming Meetings
 
-#### <a name="2018-05-09" />May 9th, 2018 - Planning Meeting
+#### <a name="2018-06-18" />June 18th, 2018 - Demo Night
 
-At the April meeting, the group decided to meet up to plan out what we need to
-do for future events.
+Due to some confusion around the holiday, our plans for May's meeting were cut
+short. So June's meeting is going to be a bit of a combination of demonstrations.
 
-The group will be meeting at Stokes Inland at 7:00pm on Wednesday May 9th.
+On the third Monday of June, SLLUG members Mark Dillon and Paul Belanger have
+two very different demos to share with the group. Both are based on FLOSS and
+are topics near and dear to the hearts of both of our presenters.
 
-    Stoke's Inland Bar and Grill
-    1202 Lambton Mall Rd, Sarnia, ON N7S 5R6
+The event will held at 6:00pm on June 18th at [theStory](https://www.thestory.ca/):
 
-Discussion will focus around:
+    theStory - Sacred Space and Community Venue
+    179 Christina Street N, Sarnia, ON N7T 5T8
 
-- Hardware and Software Requirements for Running Events
-- Building a Loose Work Plan
-- Assigning Works/Teams to Specific Goals
+[![theStory Sign](/theStory-banner.jpg)](https://www.flickr.com/photos/nathancolquhoun/3888152255/)
 
-We will re-address the [2018 activity plan](/plan-2018.html) as a group as well.
+<sub>Image by [Nathan Colquhoun](https://www.flickr.com/photos/nathancolquhoun/3888152255/) licensed [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)</sub>
 
-If you'd like to reach us to learn more about Linux or Open Source tech,
-remember that you can [join our mailing lists](https://mail.sllug.ca), join
-us on freenode IRC @ #sllug, or reach out to the [Sarnia Tech Community](https://www.sarniatech.ca)
-where we have a #sllug channel on the Slack chatroom.
+This is a reminder that our discussions are fairly free-formed, and if you, as a
+member, would like to lead a discussion or show off a cool new technology, we
+would love to see it.
 
+At this event, Mark will be presenting his Demoscene example. Demoscene is a
+longstanding computer art tradition that was traditionally packaged with... the
+OTHER kind of free software. The goal of Demoscene is to produce a minimally
+sized executable that runs a fancy graphics demonstration. In recent years, the
+community has adopted a lot of open source into the mix, and is thriving in
+slightly less dark corners of the internet these days.
 
-#### <a name="2018-05-14" />May 14th, 2018 - Multimedia Production and Consumption
+For more information about what "Demoscene" is, check out [Wikipedia](https://en.wikipedia.org/wiki/Demoscene)
+or [pouët.net](http://www.pouet.net/).
 
-On the third Monday of May, the group will be discussing open source tools for
-multimedia production and consumption.
+Also at this event, Paul will be presenting a Raspberry Pi orchestration example.
+Paul is a strong proponent of Ansible, a systems configuration and management
+suite. He will be using Ansible to demonstrate to us how to easily turn a small
+stack of Raspberry Pi units into a portable management unit for an InstallFest.
 
-The event will held at 6:00pm on May 14th at theStory's Second Entrance:
-
-    theStory's Second Entrance
-    181 Christina Street N, Sarnia, ON N7T 5T8
-
-![Enter north door of theStory](/theStory-SecondEntrance.jpg)
-
-Topics will include but not be limited to:
-
-- Production of visual art with GIMP, Inkscape and Krita
-- Audio and Video Production and Recording Tools
-- Technology to support consumption of media (servers, networks and players)
+For more information about Ansible, check out [the official website](https://www.ansible.com/)
+and [Wikipedia](https://en.wikipedia.org/wiki/Ansible_%28software%29).
 
 Our events typically involve a couple of hours of technical conversation, with
 small group networking continuing after the formal schedule concludes. Come join in!
@@ -97,6 +95,42 @@ us on freenode IRC @ #sllug, or reach out to the [Sarnia Tech Community](https:/
 where we have a #sllug channel on the Slack chatroom.
 
 ### Past Meetings
+
+#### <a name="2018-05-14" />May 14th, 2018 - Multimedia Production and Consumption
+
+On the ~~third~~ second Monday of May, the group discussed open source tools for
+multimedia production and consumption.
+
+The event was held at 6:00pm on May 14th at theStory's Second Entrance:
+
+    theStory's Second Entrance
+    181 Christina Street N, Sarnia, ON N7T 5T8
+
+![Enter north door of theStory](/theStory-SecondEntrance.jpg)
+
+Topics attemped to include but were not be limited to:
+
+- Production of visual art with GIMP, Inkscape and Krita
+- Audio and Video Production and Recording Tools
+- Technology to support consumption of media (servers, networks and players)
+
+#### <a name="2018-05-09" />May 9th, 2018 - Planning Meeting
+
+At the April meeting, the group decided to meet up to plan out what we need to
+do for future events.
+
+The group met at Stokes Inland at 7:00pm on Wednesday May 9th.
+
+    Stoke's Inland Bar and Grill
+    1202 Lambton Mall Rd, Sarnia, ON N7S 5R6
+
+Discussion focused around:
+
+- Hardware and Software Requirements for Running Events
+- Building a Loose Work Plan
+- Assigning Works/Teams to Specific Goals
+
+We re-addressed the [2018 activity plan](/plan-2018.html) as a group as well.
 
 #### <a name="2018-04-16" />Apr 16th, 2018 - Open Source Network Security
 
@@ -116,14 +150,6 @@ Topics will include but not be limited to:
 - Firewall Technologies (pf vs iptables vs ???)
 - Network Intrusion and Detection Systems
 - Network Penetration Testing Systems
-
-Our events typically involve a couple of hours of technical conversation, with
-small group networking continuing after the formal schedule concludes. Come join in!
-
-If you'd like to reach us to learn more about Linux or Open Source tech,
-remember that you can [join our mailing lists](https://mail.sllug.ca), join
-us on freenode IRC @ #sllug, or reach out to the [Sarnia Tech Community](https://www.sarniatech.ca)
-where we have a #sllug channel on the Slack chatroom.
 
 #### <a name="2018-03-24" />Mar 24th, 2018 - InstallFest #1
 
