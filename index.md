@@ -35,9 +35,9 @@ arrange other donation methods with [Mark Dillon (mark.dillon@sllug.ca)](mailto:
 
 ## <a name="meetings" />Meetings
 
-Ongoing meetings will be held on the Third Monday of the month (eg- Nov 20th, 2017).
+Ongoing meetings will be held on the Third Monday of the month (eg- Aug 20th, 2018).
 
-Starting in 2018, we plan to hold monthly topical events, with a mix of discussion
+Since the start of 2018, we hold monthly topical events, with a mix of discussion
 on a specific FLOSS topic, and a mix of non-specific networking and camaraderie.
 
 Meetings are free to attend for all time, for all participants. Interested
@@ -45,6 +45,33 @@ participants of all skill levels are encouraged to attend. We ask that
 attendees under the age of 13 bring along an interested adult.
 
 ### Upcoming Meetings
+
+#### <a name="2018-08-20" />August 20th, 2018 - Hackday Conversation
+
+On the third Monday of August, at 7:00pm, SLLUG will meet at Stoke's Inland to
+discuss our future plans for a hackday. Topics of discussion will include:
+
+- Necessary Equipment for the Day
+- Needed Infrastructure for the Day
+- Dates and Times for the Day
+- Themes and Goals of Hackday Activities
+
+We have a great set of partners lined up for this event, and are looking forward
+to sharing it with all of you.
+
+The event will held at 7:00pm on August 20th at [Stoke's Inland](http://www.stokesinland.com/):
+
+    Stoke's Inland Grill and Bar
+    1202 Lambton Mall Road, Sarnia, ON N7S 5R6
+
+<div style="text-align: center"><iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-82.35724389553071%2C42.98256064692253%2C-82.35370337963106%2C42.98433641243995&amp;layer=mapnik&amp;marker=42.98344853609279%2C-82.35547363758087" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=42.98345&amp;mlon=-82.35547#map=19/42.98345/-82.35547">View Larger Map</a></small></div>
+
+### Past Meetings
+
+#### <a name="2018-07-16" />July 16th, 2018 - ???!
+
+We met. There were about six of us. We talked about a lot of things, and some of
+them were even Linux-related. Thanks for those that showed up on short notice.
 
 #### <a name="2018-06-18" />June 18th, 2018 - Demo Night
 
@@ -94,8 +121,6 @@ remember that you can [join our mailing lists](https://mail.sllug.ca), join
 us on freenode IRC @ #sllug, or reach out to the [Sarnia Tech Community](https://www.sarniatech.ca)
 where we have a #sllug channel on the Slack chatroom.
 
-### Past Meetings
-
 #### <a name="2018-05-14" />May 14th, 2018 - Multimedia Production and Consumption
 
 On the ~~third~~ second Monday of May, the group discussed open source tools for
@@ -131,75 +156,6 @@ Discussion focused around:
 - Assigning Works/Teams to Specific Goals
 
 We re-addressed the [2018 activity plan](/plan-2018.html) as a group as well.
-
-#### <a name="2018-04-16" />Apr 16th, 2018 - Open Source Network Security
-
-On the third Monday of April, we discussed open source networking and security.
-
-The event was held at 6:00pm on April 16th at theStory's Second Entrance:
-
-    theStory's Second Entrance
-    181 Christina Street N, Sarnia, ON N7T 5T8
-
-As with March's exercise, members were encouraged to prepare a small bit of
-information about their experiences (both new and old) with open source
-networking and security technologies.
-
-Topics will include but not be limited to:
-
-- Firewall Technologies (pf vs iptables vs ???)
-- Network Intrusion and Detection Systems
-- Network Penetration Testing Systems
-
-#### <a name="2018-03-24" />Mar 24th, 2018 - InstallFest #1
-
-[See the InstallFest #1 Page for More Details](/installfest-2018-03-24.html)
-
-The goal of this event is to offer a chance for users to install Linux.
-
-This event will be audience-driven, but possible activities will include:
-
-- Installing Linux to a RaspberryPi and connecting sensors to the GPIO ports
-- Installing a Linux Desktop Environment to a desktop computer for personal use
-- Advanced Linux Installation (Gentoo/Arch/Debian Minimal) in a VM or to hardware
-
-Experienced users will be available to guide small groups through individual
-activities and to answer questions.
-
-The event will be from 10-4 on Saturday, March 24th, in room A223 at Lambton College.
-
-You can expect fun, food, and freedom. All for the low-low price of free (as in
-pizza) so that you can learn more about free software (as in liberty.)
-
-Activities will be available for Installers of all skill levels, from:
-- Beginner ("I've never heard of this, please tell me more"), to
-- Intermediate ("I've been meaning to install Gentoo one of these days"), to
-- Advanced ("Let's build a small business server including e-mail, web server, and logins")
-
-You can bring your own device and install Linux on that, or use one of our
-loaners kindly donated by the Information Technology Professional program.
-
-##### Agenda
-
-    10:00 - 10:15 Networking and Coffee Kickstart
-    10:15 - 10:30 Introduction to Open Source and SLLUG
-    10:30 - 12:00 Group Activities Commence
-    12:00 - 12:30 Lunch (free as in pizza)
-    12:30 -  2:30 Group Activities Continue
-     2:30 -  3:00 Wrap-Up and Next Steps
-
-Location is Room A223 at Lambton College.
-
-[![College Map to A223](/CollegeMapToA223-Thumb.png)](CollegeMapToA223.png)
-
-- Park in Lot D at the College (free parking on Saturday)
-- Cross the bridge and enter the main doors
-- Immediately take a left before the second set of doors
-- Go up the stairs
-- At the top of the stairs, take a left
-- Room A223 will be a few doors down, on the left
-
-[Share our Poster Freely](/installfest-2018-03-24.pdf)
 
 #### More Past Meetings
 

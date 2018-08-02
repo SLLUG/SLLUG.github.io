@@ -5,6 +5,75 @@ title: Meeting Archive - 2018
 
 ### Past Meeting from 2018
 
+#### <a name="2018-04-16" />Apr 16th, 2018 - Open Source Network Security
+
+On the third Monday of April, we discussed open source networking and security.
+
+The event was held at 6:00pm on April 16th at theStory's Second Entrance:
+
+    theStory's Second Entrance
+    181 Christina Street N, Sarnia, ON N7T 5T8
+
+As with March's exercise, members were encouraged to prepare a small bit of
+information about their experiences (both new and old) with open source
+networking and security technologies.
+
+Topics will include but not be limited to:
+
+- Firewall Technologies (pf vs iptables vs ???)
+- Network Intrusion and Detection Systems
+- Network Penetration Testing Systems
+
+#### <a name="2018-03-24" />Mar 24th, 2018 - InstallFest #1
+
+[See the InstallFest #1 Page for More Details](/installfest-2018-03-24.html)
+
+The goal of this event is to offer a chance for users to install Linux.
+
+This event will be audience-driven, but possible activities will include:
+
+- Installing Linux to a RaspberryPi and connecting sensors to the GPIO ports
+- Installing a Linux Desktop Environment to a desktop computer for personal use
+- Advanced Linux Installation (Gentoo/Arch/Debian Minimal) in a VM or to hardware
+
+Experienced users will be available to guide small groups through individual
+activities and to answer questions.
+
+The event will be from 10-4 on Saturday, March 24th, in room A223 at Lambton College.
+
+You can expect fun, food, and freedom. All for the low-low price of free (as in
+pizza) so that you can learn more about free software (as in liberty.)
+
+Activities will be available for Installers of all skill levels, from:
+- Beginner ("I've never heard of this, please tell me more"), to
+- Intermediate ("I've been meaning to install Gentoo one of these days"), to
+- Advanced ("Let's build a small business server including e-mail, web server, and logins")
+
+You can bring your own device and install Linux on that, or use one of our
+loaners kindly donated by the Information Technology Professional program.
+
+##### Agenda
+
+    10:00 - 10:15 Networking and Coffee Kickstart
+    10:15 - 10:30 Introduction to Open Source and SLLUG
+    10:30 - 12:00 Group Activities Commence
+    12:00 - 12:30 Lunch (free as in pizza)
+    12:30 -  2:30 Group Activities Continue
+     2:30 -  3:00 Wrap-Up and Next Steps
+
+Location is Room A223 at Lambton College.
+
+[![College Map to A223](/CollegeMapToA223-Thumb.png)](CollegeMapToA223.png)
+
+- Park in Lot D at the College (free parking on Saturday)
+- Cross the bridge and enter the main doors
+- Immediately take a left before the second set of doors
+- Go up the stairs
+- At the top of the stairs, take a left
+- Room A223 will be a few doors down, on the left
+
+[Share our Poster Freely](/installfest-2018-03-24.pdf)
+
 #### <a name="2018-03-19" />Mar 19th, 2018 - Enterprise Server Needs
 
 On the third Monday of March, we resumed our regularly scheduled programming
