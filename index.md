@@ -46,6 +46,35 @@ attendees under the age of 13 bring along an interested adult.
 
 ### Upcoming Meetings
 
+#### <a name="2018-09-17" />September 17th, 2018 - Why Linux?!
+
+On the third Monday of September, SLLUG members are invited to come tell their
+stories at the Story! Specifically, we want to know: why do you use Linux and
+Open Source Software? What got you into it? What keeps you into it?
+
+Feel free to bring audio/visual aids to tell your story, or just hold a 
+"campfire chat" to share your experiences.
+
+The event will held at 7:00pm on September 17th at [theStory](https://www.thestory.ca/):
+
+    theStory - Sacred Space and Community Venue
+    179 Christina Street N, Sarnia, ON N7T 5T8
+
+[![theStory Sign](/theStory-banner.jpg)](https://www.flickr.com/photos/nathancolquhoun/3888152255/)
+
+<sub>Image by [Nathan Colquhoun](https://www.flickr.com/photos/nathancolquhoun/3888152255/) licensed [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)</sub>
+
+This is a reminder that our discussions are fairly free-formed, and if you, as a
+member, would like to lead a discussion or show off a cool new technology, we
+would love to see it.
+
+If you'd like to reach us to learn more about Linux or Open Source tech,
+remember that you can [join our mailing lists](https://mail.sllug.ca), join
+us on freenode IRC @ #sllug, or reach out to the [Sarnia Tech Community](https://www.sarniatech.ca)
+where we have a #sllug channel on the Slack chatroom.
+
+### Past Meetings
+
 #### <a name="2018-08-20" />August 20th, 2018 - Hackday Conversation
 
 On the third Monday of August, at 7:00pm, SLLUG will meet at Stoke's Inland to
@@ -65,8 +94,6 @@ The event will held at 7:00pm on August 20th at [Stoke's Inland](http://www.stok
     1202 Lambton Mall Road, Sarnia, ON N7S 5R6
 
 <div style="text-align: center"><iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-82.35724389553071%2C42.98256064692253%2C-82.35370337963106%2C42.98433641243995&amp;layer=mapnik&amp;marker=42.98344853609279%2C-82.35547363758087" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=42.98345&amp;mlon=-82.35547#map=19/42.98345/-82.35547">View Larger Map</a></small></div>
-
-### Past Meetings
 
 #### <a name="2018-07-16" />July 16th, 2018 - ???!
 
