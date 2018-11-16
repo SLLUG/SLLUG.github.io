@@ -46,6 +46,39 @@ attendees under the age of 13 bring along an interested adult.
 
 ### Upcoming Meetings
 
+#### <a name="2018-11-19" />November 19th, 2018 - Community Update
+
+The Sarnia-Lambton Linux Users Group invites you to join us at Stoke's Inland at 7pm on Monday, November 19th.
+
+We don't really have much of an agenda. It's a very busy time for everyone.
+
+We have a few things in the works that we can talk about, and we're open to new discussions. Existing topics include:
+- Mark's EPYC Holiday Benchmark Party
+- The Controls Village Event
+- The Red Hat Acquisition
+- RHEL is finally running Beta 8
+- Len is doing some fun stuff with AI
+
+So feel free to join us, grab a drink or a snack, and talk Open Source. See you then!
+
+The event will held at 7:00pm on November 19th at [Stoke's Inland](http://www.stokesinland.com/):
+
+    Stoke's Inland Grill and Bar
+    1202 Lambton Mall Road, Sarnia, ON N7S 5R6
+
+<div style="text-align: center"><iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-82.35724389553071%2C42.98256064692253%2C-82.35370337963106%2C42.98433641243995&amp;layer=mapnik&amp;marker=42.98344853609279%2C-82.35547363758087" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=42.98345&amp;mlon=-82.35547#map=19/42.98345/-82.35547">View Larger Map</a></small></div>
+
+This is a reminder that our discussions are fairly free-formed, and if you, as a
+member, would like to lead a discussion or show off a cool new technology, we
+would love to see it.
+
+If you'd like to reach us to learn more about Linux or Open Source tech,
+remember that you can [join our mailing lists](https://mail.sllug.ca), join
+us on freenode IRC @ #sllug, or reach out to the [Sarnia Tech Community](https://www.sarniatech.ca)
+where we have a #sllug channel on the Slack chatroom.
+
+### Past Meetings
+
 #### <a name="2018-10-15" />October 15th, 2018 - Current Events in Kernel Development
 
 On the third Monday of October, SLLUG members are invited to join us for a
@@ -64,17 +97,6 @@ The event will held at 7:00pm on October 15th at [Stoke's Inland](http://www.sto
     1202 Lambton Mall Road, Sarnia, ON N7S 5R6
 
 <div style="text-align: center"><iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-82.35724389553071%2C42.98256064692253%2C-82.35370337963106%2C42.98433641243995&amp;layer=mapnik&amp;marker=42.98344853609279%2C-82.35547363758087" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=42.98345&amp;mlon=-82.35547#map=19/42.98345/-82.35547">View Larger Map</a></small></div>
-
-This is a reminder that our discussions are fairly free-formed, and if you, as a
-member, would like to lead a discussion or show off a cool new technology, we
-would love to see it.
-
-If you'd like to reach us to learn more about Linux or Open Source tech,
-remember that you can [join our mailing lists](https://mail.sllug.ca), join
-us on freenode IRC @ #sllug, or reach out to the [Sarnia Tech Community](https://www.sarniatech.ca)
-where we have a #sllug channel on the Slack chatroom.
-
-### Past Meetings
 
 #### <a name="2018-09-17" />September 17th, 2018 - Why Linux?!
 
