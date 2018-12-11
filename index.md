@@ -51,10 +51,9 @@ attendees under the age of 13 bring along an interested adult.
 We are heading to the new location of District Beta to bring an end to the 2018 
 season of the Sarnia Tech Community.
 
-We will be at District Beta: 1886 London Line, Sarnia, Ontario N7W 1B3
-
-    Time: 6:00 - 10:00pm
-    Date: Wed, Dec 19th
+    Where:  1886 London Line, Sarnia, Ontario N7W 1B3
+    Time:   6:00 - 10:00pm
+    Date:   Wed, Dec 19th
     Treats: We will provide pizza, and will have a couple VR booths booked to 
             share. There will also be retro gaming stations and casual 
             conversations to keep a body busy.
@@ -71,7 +70,7 @@ The new location for District Beta also includes a licensed bar, so if you're
 planning on partaking, please plan to arrive and leave safely.
 
 For more information about what District Beta has to offer, head over to their 
-website at https://www.districtbeta.ca
+website at [www.DistrictBeta.ca](https://www.districtbeta.ca)
 
 So come on out and join us: shake some snow off your boots and warm your belly 
 with some like minded tech heads. We'll see you there!
