@@ -46,6 +46,38 @@ attendees under the age of 13 bring along an interested adult.
 
 ### Upcoming Meetings
 
+#### <a name="2018-12-19" />December 19th, 2018 - Sarnia Tech Holiday Party
+
+We are heading to the new location of District Beta to bring an end to the 2018 
+season of the Sarnia Tech Community.
+
+We will be at District Beta: 1886 London Line, Sarnia, Ontario N7W 1B3
+
+    Time: 6:00 - 10:00pm
+    Date: Wed, Dec 19th
+    Treats: We will provide pizza, and will have a couple VR booths booked to 
+            share. There will also be retro gaming stations and casual 
+            conversations to keep a body busy.
+
+Note for infrequent visitors, District Beta has relocated into a prime location 
+closer to the road in the same plaza, next to Hiway Bowl.
+
+Food will be graciously covered by our sponsors at [Plexus Dev](http://www.plexusdev.com/) 
+and [Sarnia Inkspot](http://www.sarniainkspot.com/). All STC and SLLUG members in 
+attendance will also be entered into a draw for door prizes, including a draw for 
+free time in the VR booths at District Beta.
+
+The new location for District Beta also includes a licensed bar, so if you're 
+planning on partaking, please plan to arrive and leave safely.
+
+For more information about what District Beta has to offer, head over to their 
+website at https://www.districtbeta.ca
+
+So come on out and join us: shake some snow off your boots and warm your belly 
+with some like minded tech heads. We'll see you there!
+
+### Past Meetings
+
 #### <a name="2018-11-19" />November 19th, 2018 - Community Update
 
 The Sarnia-Lambton Linux Users Group invites you to join us at Stoke's Inland at 7pm on Monday, November 19th.
@@ -76,8 +108,6 @@ If you'd like to reach us to learn more about Linux or Open Source tech,
 remember that you can [join our mailing lists](https://mail.sllug.ca), join
 us on freenode IRC @ #sllug, or reach out to the [Sarnia Tech Community](https://www.sarniatech.ca)
 where we have a #sllug channel on the Slack chatroom.
-
-### Past Meetings
 
 #### <a name="2018-10-15" />October 15th, 2018 - Current Events in Kernel Development
 
