@@ -55,7 +55,7 @@ end of the parking lot, into the newly renovated Centre of Excellence. Go up
 to the second floor, and the meeting room is wrapped around the corner.
 
 If you're unsure where to go, please reach out to Len or another member of
-the group, or refer to the campus maps: www.lambtoncollege.ca/Contact/Maps_and_Directions/Campus_Maps/
+the group, or [refer to the campus maps](https://www.lambtoncollege.ca/Contact/Maps_and_Directions/Campus_Maps/).
 
 The goal of this meeting is to collaborate on an outreach strategy, including 
 but not limited to:
