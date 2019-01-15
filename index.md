@@ -46,6 +46,28 @@ attendees under the age of 13 bring along an interested adult.
 
 ### Upcoming Meetings
 
+#### <a name="2019-01-21" />January 21st, 2019 - Community Outreach
+
+On Monday, January 21st at 7:00pm, you are invited to meet at Lambton College 
+in meeting room A2-126 (this used to be room L211.) Parking is no longer 
+monitored after 6pm, so parking is free. The easiest access is at the south 
+end of the parking lot, into the newly renovated Centre of Excellence. Go up 
+to the second floor, and the meeting room is wrapped around the corner.
+
+If you're unsure where to go, please reach out to Len or another member of
+the group, or refer to the campus maps: www.lambtoncollege.ca/Contact/Maps_and_Directions/Campus_Maps/
+
+The goal of this meeting is to collaborate on an outreach strategy, including 
+but not limited to:
+
+- An Open Source Starter Pack
+- List of Community Partners
+- Scheduling and Planning our 2019 InstallFest
+
+Looking forward to seeing you all there!
+
+### Past Meetings
+
 #### <a name="2018-12-19" />December 19th, 2018 - Sarnia Tech Holiday Party
 
 We are heading to the new location of District Beta to bring an end to the 2018 
@@ -74,8 +96,6 @@ website at [www.DistrictBeta.ca](https://www.districtbeta.ca)
 
 So come on out and join us: shake some snow off your boots and warm your belly 
 with some like minded tech heads. We'll see you there!
-
-### Past Meetings
 
 #### <a name="2018-11-19" />November 19th, 2018 - Community Update
 
