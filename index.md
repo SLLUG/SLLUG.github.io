@@ -46,6 +46,26 @@ attendees under the age of 13 bring along an interested adult.
 
 ### Upcoming Meetings
 
+#### <a name="2019-02-18" />February 18th, 2019 - Open Source Family
+
+##### NOTE: New Time **7:30pm** 
+
+On Monday, February 18th at 7:30pm, you are invited to meet at Stoke's Inland
+with whoever will show up on the holiday. We will be discussing general open
+source topics, and laying out jobs, tasks and prep necessary for our next
+InstallFest.
+
+Bring an open mind and some open source and we'll see you there.
+
+The event will held at 7:30pm on February 18th at [Stoke's Inland](http://www.stokesinland.com/):
+
+    Stoke's Inland Grill and Bar
+    1202 Lambton Mall Road, Sarnia, ON N7S 5R6
+
+<div style="text-align: center"><iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-82.35724389553071%2C42.98256064692253%2C-82.35370337963106%2C42.98433641243995&amp;layer=mapnik&amp;marker=42.98344853609279%2C-82.35547363758087" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=42.98345&amp;mlon=-82.35547#map=19/42.98345/-82.35547">View Larger Map</a></small></div>
+
+### Past Meetings
+
 #### <a name="2019-01-21" />January 21st, 2019 - Community Outreach
 
 On Monday, January 21st at 7:00pm, you are invited to meet at Lambton College 
@@ -65,8 +85,6 @@ but not limited to:
 - Scheduling and Planning our 2019 InstallFest
 
 Looking forward to seeing you all there!
-
-### Past Meetings
 
 #### <a name="2018-12-19" />December 19th, 2018 - Sarnia Tech Holiday Party
 
