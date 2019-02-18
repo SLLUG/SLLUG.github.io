@@ -80,6 +80,8 @@ browser to the grey beard.
 * Learn more about Open Source Tech
 * Have fun and meet new people!
 
+[Register at EventBrite to guarantee a spot.](https://www.eventbrite.ca/e/installfest-winter-2019-tickets-56727257755)
+
 The event is held at Lambton College, in room D1-204 on Saturday, March
 9th, 2019 from 10am to 5pm.
 
