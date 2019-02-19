@@ -70,15 +70,37 @@ The event will held at 7:30pm on February 18th at [Crabby Joe's](https://www.cra
 
 ![InstallFest Info Image](/installfest-2019-03-09-fbevent.png)
 
-Join us Saturday, March 9th, 2019 for the Sarnia-Lambton Linux Users Group
-InstallFest. You don't need to be a computer guru or even a power user. We
-will introduce you to FOSS technologies and teach you how to harness them.
-There will be activities for all levels of user, from the day-to-day web
-browser to the grey beard.
+Join us Saturday March 9th, 2019 for the Sarnia-Lambton Linux Users Group InstallFest.
+You don’t need to be a computer guru or even a power user. We will introduce you to 
+Open Source technologies and teach you how to harness them.
 
-* Install and Configure Linux
-* Learn more about Open Source Tech
-* Have fun and meet new people!
+There will be activities for all levels of user, from the day-to-day web browser to the grey beard.
+
+Food and drinks will be provided throughout the day. Seating is limited.
+
+Schedule
+
+- 10:30 - Introduction
+- 11:00 - Team Formation
+- 11:15 - Team Orientation
+- 11:30 - Get Started
+- 12:30 - Lunch
+- 15:00 - Check-In
+- 17:00 - Tear Down & Take Off
+
+##### Beginner: 
+
+An opportunity to explore a variety of operating systems. Maybe you've thought of running Linux on your desktop, or you want to build a home theatre PC but would like some guidance.
+
+##### Intermediate: 
+
+Already have some system skills? Come out and learn how to build web servers, database servers and other important systems that can be consumed by Track 1 and make the internet go
+
+##### Advanced: 
+
+Be a part of the team that creates the virtual private cloud and container system that the Intermediates use to setup services.
+
+We will be providing desktops, servers and software for all of this to work as well as a few key people who've done this sort of thing before to help guide everyone.
 
 [Register at EventBrite to guarantee a spot.](https://www.eventbrite.ca/e/installfest-winter-2019-tickets-56727257755)
 
