@@ -5,7 +5,6 @@ title: Home
 # Welcome to the Sarnia-Lambton Linux Users Group - SLLUG
 
 * [Meetings](#meetings)
-* [Communication](#communication)
 * [Advocacy](#advocacy)
 * [Friends and Family](#friends)
 * [Members](/members.html)
