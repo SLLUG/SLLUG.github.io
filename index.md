@@ -78,10 +78,9 @@ This is a reminder that our discussions are fairly free-formed, and if you, as a
 member, would like to lead a discussion or show off a cool new technology, we
 would love to see it.
 
-If you'd like to reach us to learn more about Linux or Open Source tech,
-remember that you can [join our mailing lists](https://mail.sllug.ca), join
-us on freenode IRC @ #sllug, or reach out to the [Sarnia Tech Community](https://www.sarniatech.ca)
-where we have a #sllug channel on the Slack chatroom.
+If you'd like to reach us to learn more about Linux or Open Source tech, reach
+out to the [Sarnia Tech Community](https://www.sarniatech.ca) where we have a #sllug
+channel on the Slack chatroom.
 
 #### <a name="2019-03-09" />March 9th, 2019 - 2nd Annual InstallFest
 
@@ -175,16 +174,6 @@ See more past meetings in the meetings archives:
 
 - [SLLUG Meetings from 2018](/meeting_archive_2018.html)
 - [SLLUG Meetings from 2017](/meeting_archive_2017.html)
-
-## <a name="communication" />Communication
-
-The Sarnia-Lambton Linux Users Group is running Mailman 3.0 on
-[mail.sllug.ca](https://mail.sllug.ca) for your communicating pleasure.
-
-[Subscribe to the mailing list](https://mail.sllug.ca/postorius/lists/general.sllug.ca)
-for up-to-date meeting information and other discussions.
-
-Examine the [2018 Activity Plan](/plan-2018.html) as it stands.
 
 ## <a name="advocacy" />Advocacy
 
