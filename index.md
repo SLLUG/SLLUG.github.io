@@ -35,6 +35,11 @@ please make arrangements with [Len Payne (len.payne@sllug.ca)](mailto:len.payne@
 
 Ongoing meetings will be held on the Third Monday of the month (eg- Aug 20th, 2018).
 
+Since re-opening post-pandemic, SLLUG has been meeting at 7:30pm on the Third Monday
+at Two Amigos in Sarnia at 914 Murphy Road.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2918.485135135202!2d-82.36750788498769!3d42.98911820313589!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88258368062f9545%3A0xf9f9c983c000d1b8!2sTwo%20Amigos!5e0!3m2!1sen!2sca!4v1660314522651!5m2!1sen!2sca" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 Since the start of 2018, we hold monthly topical events, with a mix of discussion
 on a specific FLOSS topic, and a mix of non-specific networking and camaraderie.
 
@@ -42,18 +47,8 @@ Meetings are free to attend for all time, for all participants. Interested
 participants of all skill levels are encouraged to attend. We ask that
 attendees under the age of 13 bring along an interested adult.
 
-### COVID-19 Considerations
-
-During the exceptional times of the pandemic, our in-person meetings have come to
-a complete stand-still. However, our group has had sporadic luck meeting up still
-on video chats. Our platform of choice is [Jitsi](https://meet.jit.si/), which is
-an open source, hosted solution.
-
 We use the [Sarnia Tech Community](https://sarniatech.ca)'s Slack instance to
-communicate outside of those video chats, and have had a few interesting conversations.
-
-We will keep you all updated as we rejoin the re-opening, but to be honest it may
-still be many months away.
+communicate outside of meetings, and have had a few interesting conversations.
 
 #### Meetings Archive
 
@@ -91,7 +86,7 @@ Tech Community member](https://www.cognitoforms.com/SarniaTechCommunity/SarniaTe
 The SLLUG can be reached by contacting [Len Payne](https://github.com/LenPayne)
 through [Twitter](https://twitter.com/LenPayne), or [E-Mail](mailto:len.payne@sllug.ca).
 
-We are also currently occupying #sllug on Freenode if you'd like to chat.
+We are also currently occupying #sllug on the [Sarnia Tech](https://sarniatech.ca) Slack if you'd like to chat.
 
 Check out our [Members Page](/members.html) to reach out to learn about other members
 and find ways to reach them.
