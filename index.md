@@ -5,6 +5,7 @@ title: Home
 # Welcome to the Sarnia-Lambton Linux Users Group - SLLUG
 
 * [Meetings](#meetings)
+* [InstallFest](#installfest)
 * [Advocacy](#advocacy)
 * [Friends and Family](#friends)
 * [Members](/members.html)
@@ -49,6 +50,54 @@ attendees under the age of 13 bring along an interested adult.
 
 We use the [Sarnia Tech Community](https://sarniatech.ca)'s Slack instance to
 communicate outside of meetings, and have had a few interesting conversations.
+
+### <a name="installfest" />March 18th, 2023 - InstallFest
+
+![InstallFest Info Image](/installfest-2023-03-18.png)
+
+The goal of this event is to offer a chance for users to work with free (as in 
+freedom) open source software. This software is used every day, in devices all 
+around you. The site you're viewing this through is built on free and open 
+source software like Linux.
+
+Come learn more about it!
+
+This event will be audience-driven, but possible activities will include:
+
+- Installing Linux to a RaspberryPi and connecting sensors to the GPIO ports
+- Installing a Linux Desktop Environment to a desktop computer for personal use
+- Advanced Linux Installation (Gentoo/Arch/Debian Minimal) in a VM or to hardware
+
+Experienced users will be available to guide small groups through individual 
+activities and to answer questions.
+
+The event will be from 10-5 on Saturday, March 18th, in room D1-204 in the new 
+building at Lambton College.
+
+You can expect fun, food, and freedom. All for the low-low price of free so 
+that you can learn more about free software (as in liberty.)
+
+Activities will be available for Installers of all skill levels, from:
+
+- Beginner (“I’ve never heard of this, please tell me more”), to
+- Intermediate (“I’ve been meaning to install Gentoo one of these days”), to
+- Advanced (“Let’s build a small business server including e-mail, web server, and logins”)
+
+You can bring your own device and install Linux on that, or use one of our 
+loaners kindly donated by the School of Computer Studies at Lambton College.
+
+Agenda
+
+* 10:00 - 10:15 Networking and Coffee Kickstart
+* 10:15 - 10:30 Introduction to Open Source and SLLUG
+* 10:30 - 12:00 Group Activities Commence
+* 12:00 - 12:30 Lunch (free as in pizza)
+* 12:30 -  2:30 Group Activities Continue
+* 2:30 -  3:00 Wrap-Up and Next Steps
+
+Location is Room D1-204 at Lambton College.
+
+Lunch will provided.
 
 #### Meetings Archive
 
